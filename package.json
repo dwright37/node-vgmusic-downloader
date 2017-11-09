@@ -13,7 +13,8 @@
   ],
   "dependencies": {
     "colors": "^1.0.3",
-    "simplecrawler": "^0.3.10"
+    "simplecrawler": "^0.3.10",
+    "mkdirp": "^0.5.1"
   },
   "author": "gogson (contact@hugo.paris)",
   "license": "ISC"
